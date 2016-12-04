@@ -1,9 +1,7 @@
 var searchData=
 [
-  ['record',['Record',['http://doc.qt.io/qt-5/qndeffilter-record.html',0,'QNdefFilter']]],
-  ['renderer',['Renderer',['http://doc.qt.io/qt-5/qquickframebufferobject-renderer.html',0,'QQuickFramebufferObject']]],
-  ['renderstate',['RenderState',['http://doc.qt.io/qt-5/qsgmaterialshader-renderstate.html',0,'QSGMaterialShader']]],
-  ['requestid',['RequestId',['http://doc.qt.io/qt-5/qnearfieldtarget-requestid.html',0,'QNearFieldTarget']]],
-  ['requestidprivate',['RequestIdPrivate',['http://doc.qt.io/qt-5/qnearfieldtarget-requestidprivate.html',0,'QNearFieldTarget']]],
-  ['runnableinterface',['RunnableInterface',['http://doc.qt.io/qt-5/qt3d-runnableinterface.html',0,'Qt3D']]]
+  ['uicomponents_2eprogressbar',['UIComponents.ProgressBar',['http://doc.qt.io/qt-5/qml-uicomponents-progressbar.html',0,'']]],
+  ['uicomponents_2eswitch',['UIComponents.Switch',['http://doc.qt.io/qt-5/qml-uicomponents-switch.html',0,'']]],
+  ['uicomponents_2etabwidget',['UIComponents.TabWidget',['http://doc.qt.io/qt-5/qml-uicomponents-tabwidget.html',0,'']]],
+  ['updatepaintnodedata',['UpdatePaintNodeData',['http://doc.qt.io/qt-5/qquickitem-updatepaintnodedata.html',0,'QQuickItem']]]
 ];

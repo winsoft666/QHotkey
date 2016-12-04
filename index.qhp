@@ -5,25 +5,36 @@
   <filterSection>
     <filterAttribute>doxygen</filterAttribute>
     <toc>
-      <section title="QHotkey 1.0.0" ref="index.html">
+      <section title="QHotkey 1.1.0" ref="index.html">
         <section title="Classes" ref="annotated.html">
           <section title="Class List" ref="annotated.html">
             <section title="QHotkey" ref="class_q_hotkey.html">
-              <section title="NativeShortcut" ref="class_q_hotkey.html#a5bb0eb626750370ac3eedbfb04cac498" />
-              <section title="QHotkey" ref="class_q_hotkey.html#a7ca3f553b671d5d416b30fa7e71f61a6" />
-              <section title="QHotkey" ref="class_q_hotkey.html#a0a9d40a2103b2a780e7b9ca949689eb0" />
-              <section title="QHotkey" ref="class_q_hotkey.html#ab0c0b4c790d3d062d81ebddf67598d2f" />
+              <section title="NativeShortcut" ref="class_q_hotkey_1_1_native_shortcut.html">
+                <section title="NativeShortcut" ref="class_q_hotkey_1_1_native_shortcut.html#a0464ead243208d53675e6a05d5ae6dd9" />
+                <section title="NativeShortcut" ref="class_q_hotkey_1_1_native_shortcut.html#ad4a5166a520545d53937398c9557bc39" />
+                <section title="isValid" ref="class_q_hotkey_1_1_native_shortcut.html#a6d3e7cdbef887ebbb5b642b1de3b5c34" />
+                <section title="operator!=" ref="class_q_hotkey_1_1_native_shortcut.html#afa01b759da79d9547d1d42df2a9fdd3b" />
+                <section title="operator==" ref="class_q_hotkey_1_1_native_shortcut.html#abc11d5aae15dd5504916e2db2b3fca50" />
+                <section title="key" ref="class_q_hotkey_1_1_native_shortcut.html#ae6e9e5338bfcbe1bd9f98b2f5b49270f" />
+                <section title="modifier" ref="class_q_hotkey_1_1_native_shortcut.html#a93a198efc98d115b47b18e4813813089" />
+              </section>
+              <section title="QHotkey" ref="class_q_hotkey.html#a68dc46138e9471fb92af1cece94e2c93" />
+              <section title="QHotkey" ref="class_q_hotkey.html#a53eedfbb9c60078741fc833d935f0f1b" />
+              <section title="QHotkey" ref="class_q_hotkey.html#a6c17c3ee012262cc7b0dd42111133f99" />
+              <section title="QHotkey" ref="class_q_hotkey.html#af3784043382fd4234e415f19f76bf613" />
               <section title="~QHotkey" ref="class_q_hotkey.html#a7d580437671535e1f279860c509ad64e" />
               <section title="activated" ref="class_q_hotkey.html#aa790febfca0386588258448558f1b711" />
-              <section title="isRegistered" ref="class_q_hotkey.html#a0c26193873dc3d4a0b8dec624366a27d" />
-              <section title="keyCode" ref="class_q_hotkey.html#a1b6c06cb636e8b2c91c19c2e769d4dbd" />
-              <section title="modifiers" ref="class_q_hotkey.html#adcdd990f094bcda0c42232a15b34dd43" />
+              <section title="currentNativeShortcut" ref="class_q_hotkey.html#a5e9886345acff0fe8722bcaa15e5c6f7" />
+              <section title="isRegistered" ref="class_q_hotkey.html#a94dda5b859a216fa236a9c6aeb8b2eee" />
+              <section title="keyCode" ref="class_q_hotkey.html#a53f449efb17b8c2340adbe9a3328ca63" />
+              <section title="modifiers" ref="class_q_hotkey.html#a063ba3f017e87b314e2e5d84a0bdec46" />
               <section title="registeredChanged" ref="class_q_hotkey.html#a65b2fb8573bc17207a23a6bb1ac1e920" />
               <section title="resetShortcut" ref="class_q_hotkey.html#acd7c287fb2ea1380df0112b05613f529" />
+              <section title="setNativeShortcut" ref="class_q_hotkey.html#a08f70a8e3349e1bd833e68d240ae58ac" />
               <section title="setRegistered" ref="class_q_hotkey.html#aa2ca82c24efe5d6e6998a0453ba8e0d8" />
               <section title="setShortcut" ref="class_q_hotkey.html#a046962412c66b0e51e37db7330664960" />
               <section title="setShortcut" ref="class_q_hotkey.html#a79bf7037a3b7317a1edb52fba4d8e0bf" />
-              <section title="shortcut" ref="class_q_hotkey.html#a5a656c7e29fcea4d678f19f2c11bde1d" />
+              <section title="shortcut" ref="class_q_hotkey.html#a308d91bf845bd0f8cf8563257f4895f0" />
               <section title="QHotkeyPrivate" ref="class_q_hotkey.html#aa8e4c62bfbcb289da64c3944ddeada09" />
               <section title="registered" ref="class_q_hotkey.html#aa4853021712057e412d526cfd462bcbb" />
               <section title="shortcut" ref="class_q_hotkey.html#ab336265e53263e813f0432eae92b3b0d" />
@@ -31,6 +42,7 @@
           </section>
           <section title="Class Index" ref="classes.html" />
           <section title="Class Hierarchy" ref="hierarchy.html">
+            <section title="QHotkey::NativeShortcut" ref="class_q_hotkey_1_1_native_shortcut.html" />
             <section title="QObject" ref="qobject.html">
               <section title="QHotkey" ref="class_q_hotkey.html" />
             </section>
@@ -38,7 +50,7 @@
           <section title="Class Members" ref="functions.html">
             <section title="All" ref="functions.html" />
             <section title="Functions" ref="functions_func.html" />
-            <section title="Typedefs" ref="functions_type.html" />
+            <section title="Variables" ref="functions_vars.html" />
             <section title="Properties" ref="functions_prop.html" />
           </section>
         </section>
@@ -53,21 +65,23 @@
     </toc>
     <keywords>
       <keyword name="QHotkey" id="QHotkey" ref="class_q_hotkey.html" />
-      <keyword name="NativeShortcut" id="QHotkey::NativeShortcut" ref="class_q_hotkey.html#a5bb0eb626750370ac3eedbfb04cac498" />
       <keyword name="setRegistered" id="QHotkey::setRegistered" ref="class_q_hotkey.html#aa2ca82c24efe5d6e6998a0453ba8e0d8" />
       <keyword name="setShortcut" id="QHotkey::setShortcut" ref="class_q_hotkey.html#a046962412c66b0e51e37db7330664960" />
       <keyword name="setShortcut" id="QHotkey::setShortcut" ref="class_q_hotkey.html#a79bf7037a3b7317a1edb52fba4d8e0bf" />
       <keyword name="resetShortcut" id="QHotkey::resetShortcut" ref="class_q_hotkey.html#acd7c287fb2ea1380df0112b05613f529" />
+      <keyword name="setNativeShortcut" id="QHotkey::setNativeShortcut" ref="class_q_hotkey.html#a08f70a8e3349e1bd833e68d240ae58ac" />
       <keyword name="activated" id="QHotkey::activated" ref="class_q_hotkey.html#aa790febfca0386588258448558f1b711" />
       <keyword name="registeredChanged" id="QHotkey::registeredChanged" ref="class_q_hotkey.html#a65b2fb8573bc17207a23a6bb1ac1e920" />
-      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a7ca3f553b671d5d416b30fa7e71f61a6" />
-      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a0a9d40a2103b2a780e7b9ca949689eb0" />
-      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#ab0c0b4c790d3d062d81ebddf67598d2f" />
+      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a68dc46138e9471fb92af1cece94e2c93" />
+      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a53eedfbb9c60078741fc833d935f0f1b" />
+      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a6c17c3ee012262cc7b0dd42111133f99" />
+      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#af3784043382fd4234e415f19f76bf613" />
       <keyword name="~QHotkey" id="QHotkey::~QHotkey" ref="class_q_hotkey.html#a7d580437671535e1f279860c509ad64e" />
-      <keyword name="isRegistered" id="QHotkey::isRegistered" ref="class_q_hotkey.html#a0c26193873dc3d4a0b8dec624366a27d" />
-      <keyword name="shortcut" id="QHotkey::shortcut" ref="class_q_hotkey.html#a5a656c7e29fcea4d678f19f2c11bde1d" />
-      <keyword name="keyCode" id="QHotkey::keyCode" ref="class_q_hotkey.html#a1b6c06cb636e8b2c91c19c2e769d4dbd" />
-      <keyword name="modifiers" id="QHotkey::modifiers" ref="class_q_hotkey.html#adcdd990f094bcda0c42232a15b34dd43" />
+      <keyword name="isRegistered" id="QHotkey::isRegistered" ref="class_q_hotkey.html#a94dda5b859a216fa236a9c6aeb8b2eee" />
+      <keyword name="shortcut" id="QHotkey::shortcut" ref="class_q_hotkey.html#a308d91bf845bd0f8cf8563257f4895f0" />
+      <keyword name="keyCode" id="QHotkey::keyCode" ref="class_q_hotkey.html#a53f449efb17b8c2340adbe9a3328ca63" />
+      <keyword name="modifiers" id="QHotkey::modifiers" ref="class_q_hotkey.html#a063ba3f017e87b314e2e5d84a0bdec46" />
+      <keyword name="currentNativeShortcut" id="QHotkey::currentNativeShortcut" ref="class_q_hotkey.html#a5e9886345acff0fe8722bcaa15e5c6f7" />
       <keyword name="QObject" id="QObject::QObject" ref="qobject.html#QObject" />
       <keyword name="event" id="QObject::event" ref="qobject.html#event" />
       <keyword name="eventFilter" id="QObject::eventFilter" ref="qobject.html#eventFilter" />
@@ -84,22 +98,22 @@
       <keyword name="killTimer" id="QObject::killTimer" ref="qobject.html#killTimer" />
       <keyword name="findChild" id="QObject::findChild" ref="qobject.html#findChild" />
       <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-1" />
       <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-2" />
-      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-3" />
       <keyword name="children" id="QObject::children" ref="qobject.html#children" />
       <keyword name="setParent" id="QObject::setParent" ref="qobject.html#setParent" />
       <keyword name="installEventFilter" id="QObject::installEventFilter" ref="qobject.html#installEventFilter" />
       <keyword name="removeEventFilter" id="QObject::removeEventFilter" ref="qobject.html#removeEventFilter" />
-      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-3" />
-      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-4" />
-      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-5" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-3" />
       <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="qobject.html#dumpObjectTree" />
       <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="qobject.html#dumpObjectInfo" />
       <keyword name="setProperty" id="QObject::setProperty" ref="qobject.html#setProperty" />
       <keyword name="property" id="QObject::property" ref="qobject.html#property" />
       <keyword name="dynamicPropertyNames" id="QObject::dynamicPropertyNames" ref="qobject.html#dynamicPropertyNames" />
       <keyword name="destroyed" id="QObject::destroyed" ref="qobject.html#destroyed" />
-      <keyword name="objectNameChanged" id="QObject::objectNameChanged" ref="qobject.html#objectName-prop" />
+      <keyword name="objectNameChanged" id="QObject::objectNameChanged" ref="qobject.html#objectNameChanged" />
       <keyword name="parent" id="QObject::parent" ref="qobject.html#parent" />
       <keyword name="inherits" id="QObject::inherits" ref="qobject.html#inherits" />
       <keyword name="deleteLater" id="QObject::deleteLater" ref="qobject.html#deleteLater" />
@@ -110,14 +124,14 @@
       <keyword name="tr" id="QObject::tr" ref="qobject.html#tr" />
       <keyword name="trUtf8" id="QObject::trUtf8" ref="qobject.html#trUtf8" />
       <keyword name="connect" id="QObject::connect" ref="qobject.html#connect" />
-      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-2" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-1" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-3" />
       <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-4" />
       <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-5" />
-      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-6" />
       <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect" />
-      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-2" />
-      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-3" />
-      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-6" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-1" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-4" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-5" />
       <keyword name="sender" id="QObject::sender" ref="qobject.html#sender" />
       <keyword name="senderSignalIndex" id="QObject::senderSignalIndex" ref="qobject.html#senderSignalIndex" />
       <keyword name="receivers" id="QObject::receivers" ref="qobject.html#receivers" />
@@ -127,6 +141,14 @@
       <keyword name="customEvent" id="QObject::customEvent" ref="qobject.html#customEvent" />
       <keyword name="connectNotify" id="QObject::connectNotify" ref="qobject.html#connectNotify" />
       <keyword name="disconnectNotify" id="QObject::disconnectNotify" ref="qobject.html#disconnectNotify" />
+      <keyword name="QHotkey::NativeShortcut" id="QHotkey::NativeShortcut" ref="class_q_hotkey_1_1_native_shortcut.html" />
+      <keyword name="NativeShortcut" id="QHotkey::NativeShortcut::NativeShortcut" ref="class_q_hotkey_1_1_native_shortcut.html#a0464ead243208d53675e6a05d5ae6dd9" />
+      <keyword name="NativeShortcut" id="QHotkey::NativeShortcut::NativeShortcut" ref="class_q_hotkey_1_1_native_shortcut.html#ad4a5166a520545d53937398c9557bc39" />
+      <keyword name="isValid" id="QHotkey::NativeShortcut::isValid" ref="class_q_hotkey_1_1_native_shortcut.html#a6d3e7cdbef887ebbb5b642b1de3b5c34" />
+      <keyword name="operator==" id="QHotkey::NativeShortcut::operator==" ref="class_q_hotkey_1_1_native_shortcut.html#abc11d5aae15dd5504916e2db2b3fca50" />
+      <keyword name="operator!=" id="QHotkey::NativeShortcut::operator!=" ref="class_q_hotkey_1_1_native_shortcut.html#afa01b759da79d9547d1d42df2a9fdd3b" />
+      <keyword name="key" id="QHotkey::NativeShortcut::key" ref="class_q_hotkey_1_1_native_shortcut.html#ae6e9e5338bfcbe1bd9f98b2f5b49270f" />
+      <keyword name="modifier" id="QHotkey::NativeShortcut::modifier" ref="class_q_hotkey_1_1_native_shortcut.html#a93a198efc98d115b47b18e4813813089" />
     </keywords>
     <files>
       <file>tabs.css</file>
@@ -156,6 +178,8 @@
       <file>class_q_hotkey.html</file>
       <file>class_q_hotkey.png</file>
       <file>class_q_hotkey-members.html</file>
+      <file>class_q_hotkey_1_1_native_shortcut.html</file>
+      <file>class_q_hotkey_1_1_native_shortcut-members.html</file>
       <file>dir_10e2ae54a52f9bfdaf1010bb96583019.html</file>
       <file>index.html</file>
       <file>annotated.html</file>
@@ -170,6 +194,8 @@
       <file>functions.html</file>
       <file>functions.html</file>
       <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
       <file>functions_func.html</file>
       <file>functions_func.html</file>
       <file>functions_func.html</file>
@@ -178,7 +204,11 @@
       <file>functions_func.html</file>
       <file>functions_func.html</file>
       <file>functions_func.html</file>
-      <file>functions_type.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
       <file>functions_prop.html</file>
       <file>functions_prop.html</file>
       <file>files.html</file>

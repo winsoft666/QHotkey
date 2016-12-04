@@ -1,11 +1,7 @@
 var searchData=
 [
+  ['addressinfo',['AddressInfo',['http://doc.qt.io/qt-5/qlowenergyadvertisingparameters-addressinfo.html',0,'QLowEnergyAdvertisingParameters']]],
   ['alternative',['Alternative',['http://doc.qt.io/qt-5/qbluetoothserviceinfo-alternative.html',0,'QBluetoothServiceInfo']]],
-  ['arrayallocatingpolicy',['ArrayAllocatingPolicy',['http://doc.qt.io/qt-5/qt3d-arrayallocatingpolicy.html',0,'Qt3D']]],
-  ['arraypreallocationpolicy',['ArrayPreallocationPolicy',['http://doc.qt.io/qt-5/qt3d-arraypreallocationpolicy.html',0,'Qt3D']]],
-  ['aspecttaskrunnable',['AspectTaskRunnable',['http://doc.qt.io/qt-5/qt3d-aspecttaskrunnable.html',0,'Qt3D']]],
-  ['assignkeyboardfocusjob',['AssignKeyboardFocusJob',['http://doc.qt.io/qt-5/qt3d-input-assignkeyboardfocusjob.html',0,'Qt3D::Input']]],
-  ['assimpparser',['AssimpParser',['http://doc.qt.io/qt-5/qt3d-assimpparser.html',0,'Qt3D']]],
   ['attribute',['Attribute',['http://doc.qt.io/qt-5/qsggeometry-attribute.html',0,'QSGGeometry']]],
   ['attribute',['Attribute',['http://doc.qt.io/qt-5/qinputmethodevent-attribute.html',0,'QInputMethodEvent']]],
   ['attributeset',['AttributeSet',['http://doc.qt.io/qt-5/qsggeometry-attributeset.html',0,'QSGGeometry']]],

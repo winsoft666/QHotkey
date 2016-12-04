@@ -5,6 +5,7 @@ var searchData=
   ['mappingfeatures',['MappingFeatures',['http://doc.qt.io/qt-5/qgeoserviceprovider.html#MappingFeature-enum',0,'QGeoServiceProvider']]],
   ['matchflags',['MatchFlags',['http://doc.qt.io/qt-5/qt.html#MatchFlag-enum',0,'Qt']]],
   ['matchoptions',['MatchOptions',['http://doc.qt.io/qt-5/qregularexpression.html#MatchOption-enum',0,'QRegularExpression']]],
+  ['modifier',['modifier',['../class_q_hotkey_1_1_native_shortcut.html#a93a198efc98d115b47b18e4813813089',1,'QHotkey::NativeShortcut']]],
   ['mousebuttons',['MouseButtons',['http://doc.qt.io/qt-5/qt.html#MouseButton-enum',0,'Qt']]],
   ['mouseeventflags',['MouseEventFlags',['http://doc.qt.io/qt-5/qt.html#MouseEventFlag-enum',0,'Qt']]]
 ];
