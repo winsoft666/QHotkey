@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QtHelpProject version="1.0">
-  <namespace>com.github.Skycoder42.QHotkey</namespace>
+  <namespace>com.Skycoder42.QHotkey.110</namespace>
   <virtualFolder>doc_QHotkey</virtualFolder>
   <filterSection>
     <filterAttribute>doxygen</filterAttribute>
