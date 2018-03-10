@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['package',['Package',['http://doc.qt.io/qt-5/qml-package.html',0,'']]],
-  ['paintcontext',['PaintContext',['http://doc.qt.io/qt-5/qabstracttextdocumentlayout-paintcontext.html',0,'QAbstractTextDocumentLayout']]],
-  ['pixmapfragment',['PixmapFragment',['http://doc.qt.io/qt-5/qpainter-pixmapfragment.html',0,'QPainter']]],
-  ['point2d',['Point2D',['http://doc.qt.io/qt-5/qsggeometry-point2d.html',0,'QSGGeometry']]]
+  ['loader',['Loader',['https://doc.qt.io/qt-5/qscxmlcompiler-loader.html',0,'QScxmlCompiler']]],
+  ['localstoreexception',['LocalStoreException',['https://doc.qt.io/qt-5/class_qt_data_sync_1_1_local_store_exception.html',0,'QtDataSync']]],
+  ['logger',['Logger',['https://doc.qt.io/qt-5/class_qt_data_sync_1_1_logger.html',0,'QtDataSync']]],
+  ['loginrequest',['LoginRequest',['https://doc.qt.io/qt-5/class_qt_data_sync_1_1_login_request.html',0,'QtDataSync']]]
 ];

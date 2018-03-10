@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QtHelpProject version="1.0">
-  <namespace>com.Skycoder42.QHotkey.110</namespace>
-  <virtualFolder>doc_QHotkey</virtualFolder>
+  <namespace>de.skycoder42.QHotkey.122</namespace>
+  <virtualFolder>doc_qhotkey</virtualFolder>
+  <customFilter name="QHotkey 1.2.2">
+    <filterAttribute>qhotkey</filterAttribute>
+    <filterAttribute>1.2.2</filterAttribute>
+  </customFilter>
   <filterSection>
     <filterAttribute>doxygen</filterAttribute>
     <toc>
-      <section title="QHotkey 1.1.0" ref="index.html">
+      <section title="QHotkey 1.2.2" ref="index.html">
         <section title="Classes" ref="annotated.html">
           <section title="Class List" ref="annotated.html">
             <section title="QHotkey" ref="class_q_hotkey.html">
@@ -18,10 +22,10 @@
                 <section title="key" ref="class_q_hotkey_1_1_native_shortcut.html#ae6e9e5338bfcbe1bd9f98b2f5b49270f" />
                 <section title="modifier" ref="class_q_hotkey_1_1_native_shortcut.html#a93a198efc98d115b47b18e4813813089" />
               </section>
-              <section title="QHotkey" ref="class_q_hotkey.html#a68dc46138e9471fb92af1cece94e2c93" />
-              <section title="QHotkey" ref="class_q_hotkey.html#a53eedfbb9c60078741fc833d935f0f1b" />
-              <section title="QHotkey" ref="class_q_hotkey.html#a6c17c3ee012262cc7b0dd42111133f99" />
-              <section title="QHotkey" ref="class_q_hotkey.html#af3784043382fd4234e415f19f76bf613" />
+              <section title="QHotkey" ref="class_q_hotkey.html#a2380aa9b4c53a1878343b9df9590f874" />
+              <section title="QHotkey" ref="class_q_hotkey.html#a2fb3136ecb3f7d14a9974801bcd1d451" />
+              <section title="QHotkey" ref="class_q_hotkey.html#a3686749c1dfe5b5db9436b72e7ff299a" />
+              <section title="QHotkey" ref="class_q_hotkey.html#a0f38fe95c7cd67db21dfbbccbf5e5582" />
               <section title="~QHotkey" ref="class_q_hotkey.html#a7d580437671535e1f279860c509ad64e" />
               <section title="activated" ref="class_q_hotkey.html#aa790febfca0386588258448558f1b711" />
               <section title="currentNativeShortcut" ref="class_q_hotkey.html#a5e9886345acff0fe8722bcaa15e5c6f7" />
@@ -33,7 +37,7 @@
               <section title="setNativeShortcut" ref="class_q_hotkey.html#a08f70a8e3349e1bd833e68d240ae58ac" />
               <section title="setRegistered" ref="class_q_hotkey.html#aa2ca82c24efe5d6e6998a0453ba8e0d8" />
               <section title="setShortcut" ref="class_q_hotkey.html#a046962412c66b0e51e37db7330664960" />
-              <section title="setShortcut" ref="class_q_hotkey.html#a79bf7037a3b7317a1edb52fba4d8e0bf" />
+              <section title="setShortcut" ref="class_q_hotkey.html#ab27572a4417f8bd4f587d70a413e0aff" />
               <section title="shortcut" ref="class_q_hotkey.html#a308d91bf845bd0f8cf8563257f4895f0" />
               <section title="QHotkeyPrivate" ref="class_q_hotkey.html#aa8e4c62bfbcb289da64c3944ddeada09" />
               <section title="registered" ref="class_q_hotkey.html#aa4853021712057e412d526cfd462bcbb" />
@@ -43,7 +47,7 @@
           <section title="Class Index" ref="classes.html" />
           <section title="Class Hierarchy" ref="hierarchy.html">
             <section title="QHotkey::NativeShortcut" ref="class_q_hotkey_1_1_native_shortcut.html" />
-            <section title="QObject" ref="qobject.html">
+            <section title="QObject" ref="class_q_object.html">
               <section title="QHotkey" ref="class_q_hotkey.html" />
             </section>
           </section>
@@ -54,7 +58,7 @@
             <section title="Properties" ref="functions_prop.html" />
           </section>
         </section>
-        <section title="Files">
+        <section title="Files" ref="files.html">
           <section title="File List" ref="files.html">
             <section title="QHotkey" ref="dir_10e2ae54a52f9bfdaf1010bb96583019.html">
               <section title="qhotkey.h" ref="qhotkey_8h_source.html" />
@@ -67,80 +71,84 @@
       <keyword name="QHotkey" id="QHotkey" ref="class_q_hotkey.html" />
       <keyword name="setRegistered" id="QHotkey::setRegistered" ref="class_q_hotkey.html#aa2ca82c24efe5d6e6998a0453ba8e0d8" />
       <keyword name="setShortcut" id="QHotkey::setShortcut" ref="class_q_hotkey.html#a046962412c66b0e51e37db7330664960" />
-      <keyword name="setShortcut" id="QHotkey::setShortcut" ref="class_q_hotkey.html#a79bf7037a3b7317a1edb52fba4d8e0bf" />
+      <keyword name="setShortcut" id="QHotkey::setShortcut" ref="class_q_hotkey.html#ab27572a4417f8bd4f587d70a413e0aff" />
       <keyword name="resetShortcut" id="QHotkey::resetShortcut" ref="class_q_hotkey.html#acd7c287fb2ea1380df0112b05613f529" />
       <keyword name="setNativeShortcut" id="QHotkey::setNativeShortcut" ref="class_q_hotkey.html#a08f70a8e3349e1bd833e68d240ae58ac" />
       <keyword name="activated" id="QHotkey::activated" ref="class_q_hotkey.html#aa790febfca0386588258448558f1b711" />
       <keyword name="registeredChanged" id="QHotkey::registeredChanged" ref="class_q_hotkey.html#a65b2fb8573bc17207a23a6bb1ac1e920" />
-      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a68dc46138e9471fb92af1cece94e2c93" />
-      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a53eedfbb9c60078741fc833d935f0f1b" />
-      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a6c17c3ee012262cc7b0dd42111133f99" />
-      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#af3784043382fd4234e415f19f76bf613" />
+      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a2380aa9b4c53a1878343b9df9590f874" />
+      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a2fb3136ecb3f7d14a9974801bcd1d451" />
+      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a3686749c1dfe5b5db9436b72e7ff299a" />
+      <keyword name="QHotkey" id="QHotkey::QHotkey" ref="class_q_hotkey.html#a0f38fe95c7cd67db21dfbbccbf5e5582" />
       <keyword name="~QHotkey" id="QHotkey::~QHotkey" ref="class_q_hotkey.html#a7d580437671535e1f279860c509ad64e" />
       <keyword name="isRegistered" id="QHotkey::isRegistered" ref="class_q_hotkey.html#a94dda5b859a216fa236a9c6aeb8b2eee" />
       <keyword name="shortcut" id="QHotkey::shortcut" ref="class_q_hotkey.html#a308d91bf845bd0f8cf8563257f4895f0" />
       <keyword name="keyCode" id="QHotkey::keyCode" ref="class_q_hotkey.html#a53f449efb17b8c2340adbe9a3328ca63" />
       <keyword name="modifiers" id="QHotkey::modifiers" ref="class_q_hotkey.html#a063ba3f017e87b314e2e5d84a0bdec46" />
       <keyword name="currentNativeShortcut" id="QHotkey::currentNativeShortcut" ref="class_q_hotkey.html#a5e9886345acff0fe8722bcaa15e5c6f7" />
-      <keyword name="QObject" id="QObject::QObject" ref="qobject.html#QObject" />
-      <keyword name="event" id="QObject::event" ref="qobject.html#event" />
-      <keyword name="eventFilter" id="QObject::eventFilter" ref="qobject.html#eventFilter" />
-      <keyword name="metaObject" id="QObject::metaObject" ref="qobject.html#metaObject" />
-      <keyword name="objectName" id="QObject::objectName" ref="qobject.html#objectName-prop" />
-      <keyword name="setObjectName" id="QObject::setObjectName" ref="qobject.html#objectName-prop" />
-      <keyword name="isWidgetType" id="QObject::isWidgetType" ref="qobject.html#isWidgetType" />
-      <keyword name="isWindowType" id="QObject::isWindowType" ref="qobject.html#isWindowType" />
-      <keyword name="signalsBlocked" id="QObject::signalsBlocked" ref="qobject.html#signalsBlocked" />
-      <keyword name="blockSignals" id="QObject::blockSignals" ref="qobject.html#blockSignals" />
-      <keyword name="thread" id="QObject::thread" ref="qobject.html#thread" />
-      <keyword name="moveToThread" id="QObject::moveToThread" ref="qobject.html#moveToThread" />
-      <keyword name="startTimer" id="QObject::startTimer" ref="qobject.html#startTimer" />
-      <keyword name="killTimer" id="QObject::killTimer" ref="qobject.html#killTimer" />
-      <keyword name="findChild" id="QObject::findChild" ref="qobject.html#findChild" />
-      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren" />
-      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-1" />
-      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-2" />
-      <keyword name="children" id="QObject::children" ref="qobject.html#children" />
-      <keyword name="setParent" id="QObject::setParent" ref="qobject.html#setParent" />
-      <keyword name="installEventFilter" id="QObject::installEventFilter" ref="qobject.html#installEventFilter" />
-      <keyword name="removeEventFilter" id="QObject::removeEventFilter" ref="qobject.html#removeEventFilter" />
-      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-2" />
-      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-2" />
-      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-3" />
-      <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="qobject.html#dumpObjectTree" />
-      <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="qobject.html#dumpObjectInfo" />
-      <keyword name="setProperty" id="QObject::setProperty" ref="qobject.html#setProperty" />
-      <keyword name="property" id="QObject::property" ref="qobject.html#property" />
-      <keyword name="dynamicPropertyNames" id="QObject::dynamicPropertyNames" ref="qobject.html#dynamicPropertyNames" />
-      <keyword name="destroyed" id="QObject::destroyed" ref="qobject.html#destroyed" />
-      <keyword name="objectNameChanged" id="QObject::objectNameChanged" ref="qobject.html#objectNameChanged" />
-      <keyword name="parent" id="QObject::parent" ref="qobject.html#parent" />
-      <keyword name="inherits" id="QObject::inherits" ref="qobject.html#inherits" />
-      <keyword name="deleteLater" id="QObject::deleteLater" ref="qobject.html#deleteLater" />
+      <keyword name="QObject" id="QObject::QObject" ref="class_q_object.html#QObject" />
+      <keyword name="event" id="QObject::event" ref="class_q_object.html#event" />
+      <keyword name="eventFilter" id="QObject::eventFilter" ref="class_q_object.html#eventFilter" />
+      <keyword name="metaObject" id="QObject::metaObject" ref="class_q_object.html#metaObject" />
+      <keyword name="objectName" id="QObject::objectName" ref="class_q_object.html#objectName-prop" />
+      <keyword name="setObjectName" id="QObject::setObjectName" ref="class_q_object.html#objectName-prop" />
+      <keyword name="isWidgetType" id="QObject::isWidgetType" ref="class_q_object.html#isWidgetType" />
+      <keyword name="isWindowType" id="QObject::isWindowType" ref="class_q_object.html#isWindowType" />
+      <keyword name="signalsBlocked" id="QObject::signalsBlocked" ref="class_q_object.html#signalsBlocked" />
+      <keyword name="blockSignals" id="QObject::blockSignals" ref="class_q_object.html#blockSignals" />
+      <keyword name="thread" id="QObject::thread" ref="class_q_object.html#thread" />
+      <keyword name="moveToThread" id="QObject::moveToThread" ref="class_q_object.html#moveToThread" />
+      <keyword name="startTimer" id="QObject::startTimer" ref="class_q_object.html#startTimer" />
+      <keyword name="startTimer" id="QObject::startTimer" ref="class_q_object.html#startTimer-1" />
+      <keyword name="killTimer" id="QObject::killTimer" ref="class_q_object.html#killTimer" />
+      <keyword name="findChild" id="QObject::findChild" ref="class_q_object.html#findChild" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="class_q_object.html#findChildren" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="class_q_object.html#findChildren-1" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="class_q_object.html#findChildren-2" />
+      <keyword name="children" id="QObject::children" ref="class_q_object.html#children" />
+      <keyword name="setParent" id="QObject::setParent" ref="class_q_object.html#setParent" />
+      <keyword name="installEventFilter" id="QObject::installEventFilter" ref="class_q_object.html#installEventFilter" />
+      <keyword name="removeEventFilter" id="QObject::removeEventFilter" ref="class_q_object.html#removeEventFilter" />
+      <keyword name="connect" id="QObject::connect" ref="class_q_object.html#connect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="class_q_object.html#disconnect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="class_q_object.html#disconnect-3" />
+      <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="class_q_object.html#dumpObjectTree-1" />
+      <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="class_q_object.html#dumpObjectInfo-1" />
+      <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="class_q_object.html#dumpObjectTree" />
+      <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="class_q_object.html#dumpObjectInfo" />
+      <keyword name="setProperty" id="QObject::setProperty" ref="class_q_object.html#setProperty" />
+      <keyword name="property" id="QObject::property" ref="class_q_object.html#property" />
+      <keyword name="dynamicPropertyNames" id="QObject::dynamicPropertyNames" ref="class_q_object.html#dynamicPropertyNames" />
+      <keyword name="destroyed" id="QObject::destroyed" ref="class_q_object.html#destroyed" />
+      <keyword name="objectNameChanged" id="QObject::objectNameChanged" ref="class_q_object.html#objectNameChanged" />
+      <keyword name="parent" id="QObject::parent" ref="class_q_object.html#parent" />
+      <keyword name="inherits" id="QObject::inherits" ref="class_q_object.html#inherits" />
+      <keyword name="deleteLater" id="QObject::deleteLater" ref="class_q_object.html#deleteLater" />
+      <keyword name="addGlobalMapping" id="QHotkey::addGlobalMapping" ref="class_q_hotkey.html#a0577c3f8377240f5987c09df15ef8fdc" />
+      <keyword name="tr" id="QObject::tr" ref="class_q_object.html#tr" />
+      <keyword name="trUtf8" id="QObject::trUtf8" ref="class_q_object.html#trUtf8" />
+      <keyword name="connect" id="QObject::connect" ref="class_q_object.html#connect" />
+      <keyword name="connect" id="QObject::connect" ref="class_q_object.html#connect-1" />
+      <keyword name="connect" id="QObject::connect" ref="class_q_object.html#connect-3" />
+      <keyword name="connect" id="QObject::connect" ref="class_q_object.html#connect-4" />
+      <keyword name="connect" id="QObject::connect" ref="class_q_object.html#connect-5" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="class_q_object.html#disconnect" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="class_q_object.html#disconnect-1" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="class_q_object.html#disconnect-4" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="class_q_object.html#disconnect-5" />
       <keyword name="registered" id="QHotkey::registered" ref="class_q_hotkey.html#aa4853021712057e412d526cfd462bcbb" />
       <keyword name="shortcut" id="QHotkey::shortcut" ref="class_q_hotkey.html#ab336265e53263e813f0432eae92b3b0d" />
-      <keyword name="objectName" id="QObject::objectName" ref="qobject.html#objectName-prop" />
+      <keyword name="objectName" id="QObject::objectName" ref="class_q_object.html#objectName-prop" />
       <keyword name="QHotkeyPrivate" id="QHotkey::QHotkeyPrivate" ref="class_q_hotkey.html#aa8e4c62bfbcb289da64c3944ddeada09" />
-      <keyword name="tr" id="QObject::tr" ref="qobject.html#tr" />
-      <keyword name="trUtf8" id="QObject::trUtf8" ref="qobject.html#trUtf8" />
-      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect" />
-      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-1" />
-      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-3" />
-      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-4" />
-      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-5" />
-      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect" />
-      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-1" />
-      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-4" />
-      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-5" />
-      <keyword name="sender" id="QObject::sender" ref="qobject.html#sender" />
-      <keyword name="senderSignalIndex" id="QObject::senderSignalIndex" ref="qobject.html#senderSignalIndex" />
-      <keyword name="receivers" id="QObject::receivers" ref="qobject.html#receivers" />
-      <keyword name="isSignalConnected" id="QObject::isSignalConnected" ref="qobject.html#isSignalConnected" />
-      <keyword name="timerEvent" id="QObject::timerEvent" ref="qobject.html#timerEvent" />
-      <keyword name="childEvent" id="QObject::childEvent" ref="qobject.html#childEvent" />
-      <keyword name="customEvent" id="QObject::customEvent" ref="qobject.html#customEvent" />
-      <keyword name="connectNotify" id="QObject::connectNotify" ref="qobject.html#connectNotify" />
-      <keyword name="disconnectNotify" id="QObject::disconnectNotify" ref="qobject.html#disconnectNotify" />
+      <keyword name="sender" id="QObject::sender" ref="class_q_object.html#sender" />
+      <keyword name="senderSignalIndex" id="QObject::senderSignalIndex" ref="class_q_object.html#senderSignalIndex" />
+      <keyword name="receivers" id="QObject::receivers" ref="class_q_object.html#receivers" />
+      <keyword name="isSignalConnected" id="QObject::isSignalConnected" ref="class_q_object.html#isSignalConnected" />
+      <keyword name="timerEvent" id="QObject::timerEvent" ref="class_q_object.html#timerEvent" />
+      <keyword name="childEvent" id="QObject::childEvent" ref="class_q_object.html#childEvent" />
+      <keyword name="customEvent" id="QObject::customEvent" ref="class_q_object.html#customEvent" />
+      <keyword name="connectNotify" id="QObject::connectNotify" ref="class_q_object.html#connectNotify" />
+      <keyword name="disconnectNotify" id="QObject::disconnectNotify" ref="class_q_object.html#disconnectNotify" />
       <keyword name="QHotkey::NativeShortcut" id="QHotkey::NativeShortcut" ref="class_q_hotkey_1_1_native_shortcut.html" />
       <keyword name="NativeShortcut" id="QHotkey::NativeShortcut::NativeShortcut" ref="class_q_hotkey_1_1_native_shortcut.html#a0464ead243208d53675e6a05d5ae6dd9" />
       <keyword name="NativeShortcut" id="QHotkey::NativeShortcut::NativeShortcut" ref="class_q_hotkey_1_1_native_shortcut.html#ad4a5166a520545d53937398c9557bc39" />
@@ -166,6 +174,8 @@
       <file>sync_on.png</file>
       <file>sync_off.png</file>
       <file>doxygen.css</file>
+      <file>jquery.js</file>
+      <file>dynsections.js</file>
       <file>search/search_l.png</file>
       <file>search/search_m.png</file>
       <file>search/search_r.png</file>
@@ -182,6 +192,7 @@
       <file>class_q_hotkey_1_1_native_shortcut-members.html</file>
       <file>dir_10e2ae54a52f9bfdaf1010bb96583019.html</file>
       <file>index.html</file>
+      <file>pages.html</file>
       <file>annotated.html</file>
       <file>classes.html</file>
       <file>hierarchy.html</file>

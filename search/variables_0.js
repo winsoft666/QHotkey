@@ -1,15 +1,19 @@
 var searchData=
 [
-  ['accessmethods',['AccessMethods',['http://doc.qt.io/qt-5/qnearfieldtarget.html#AccessMethod-enum',0,'QNearFieldTarget']]],
-  ['accesstypes',['AccessTypes',['http://doc.qt.io/qt-5/qplatformgraphicsbuffer.html#AccessType-enum',0,'QPlatformGraphicsBuffer']]],
-  ['alignment',['Alignment',['http://doc.qt.io/qt-5/qt.html#AlignmentFlag-enum',0,'Qt']]],
-  ['alternatenameentrytype',['AlternateNameEntryType',['http://doc.qt.io/qt-5/qssl-obsolete.html#AlternateNameEntryType-typedef',0,'QSsl']]],
-  ['appendfunction',['AppendFunction',['http://doc.qt.io/qt-5/qqmllistproperty.html#AppendFunction-typedef',0,'QQmlListProperty']]],
-  ['applicationstates',['ApplicationStates',['http://doc.qt.io/qt-5/qt.html#ApplicationState-enum',0,'Qt']]],
-  ['areamonitorfeatures',['AreaMonitorFeatures',['http://doc.qt.io/qt-5/qgeoareamonitorsource.html#AreaMonitorFeature-enum',0,'QGeoAreaMonitorSource']]],
-  ['areaoptions',['AreaOptions',['http://doc.qt.io/qt-5/qmdiarea.html#AreaOption-enum',0,'QMdiArea']]],
-  ['atfunction',['AtFunction',['http://doc.qt.io/qt-5/qqmllistproperty.html#AtFunction-typedef',0,'QQmlListProperty']]],
-  ['attaccessconstraints',['AttAccessConstraints',['http://doc.qt.io/qt-5/qbluetooth.html#AttAccessConstraint-enum',0,'QBluetooth']]],
-  ['attributesmap',['AttributesMap',['http://doc.qt.io/qt-5/qnetworkcachemetadata.html#AttributesMap-typedef',0,'QNetworkCacheMetaData']]],
-  ['autoformatting',['AutoFormatting',['http://doc.qt.io/qt-5/qtextedit.html#AutoFormattingFlag-enum',0,'QTextEdit']]]
+  ['accessmethods',['AccessMethods',['https://doc.qt.io/qt-5/qnearfieldtarget.html#AccessMethod-enum',0,'QNearFieldTarget']]],
+  ['aes_5feax',['AES_EAX',['https://doc.qt.io/qt-5/class_qt_data_sync_1_1_setup.html#addc59762e035504395620d0fde9a3d7ea945d2b3943d1def7bc6ea801f5b0eaa9',0,'QtDataSync::Setup']]],
+  ['aes_5fgcm',['AES_GCM',['https://doc.qt.io/qt-5/class_qt_data_sync_1_1_setup.html#addc59762e035504395620d0fde9a3d7ea1f4594b0256a099e40f5a46e8fd352db',0,'QtDataSync::Setup']]],
+  ['alignment',['Alignment',['https://doc.qt.io/qt-5/qt.html#AlignmentFlag-enum',0,'Qt']]],
+  ['allproperties',['AllProperties',['https://doc.qt.io/qt-5/class_q_json_serializer.html#a0fb6dc294c5f0c2279e1e60c8bf19b37aa598894025ccd81d3ed66d3e379c9f7e',0,'QJsonSerializer']]],
+  ['alternatenameentrytype',['AlternateNameEntryType',['https://doc.qt.io/qt-5/qssl-obsolete.html#AlternateNameEntryType-typedef',0,'QSsl']]],
+  ['appendfunction',['AppendFunction',['https://doc.qt.io/qt-5/qqmllistproperty.html#AppendFunction-typedef',0,'QQmlListProperty']]],
+  ['applicationstates',['ApplicationStates',['https://doc.qt.io/qt-5/qt.html#ApplicationState-enum',0,'Qt']]],
+  ['areamonitorfeatures',['AreaMonitorFeatures',['https://doc.qt.io/qt-5/qgeoareamonitorsource.html#AreaMonitorFeature-enum',0,'QGeoAreaMonitorSource']]],
+  ['areaoptions',['AreaOptions',['https://doc.qt.io/qt-5/qmdiarea.html#AreaOption-enum',0,'QMdiArea']]],
+  ['asklevel',['AskLevel',['https://doc.qt.io/qt-5/class_qt_auto_updater_1_1_update_controller.html#a3c3df76116942329e05f639e60bbf5a2a4478273347d97859fd591b5c302ecc54',0,'QtAutoUpdater::UpdateController']]],
+  ['atfunction',['AtFunction',['https://doc.qt.io/qt-5/qqmllistproperty.html#AtFunction-typedef',0,'QQmlListProperty']]],
+  ['attaccessconstraints',['AttAccessConstraints',['https://doc.qt.io/qt-5/qbluetooth.html#AttAccessConstraint-enum',0,'QBluetooth']]],
+  ['attributesmap',['AttributesMap',['https://doc.qt.io/qt-5/qnetworkcachemetadata.html#AttributesMap-typedef',0,'QNetworkCacheMetaData']]],
+  ['autoformatting',['AutoFormatting',['https://doc.qt.io/qt-5/qtextedit.html#AutoFormattingFlag-enum',0,'QTextEdit']]],
+  ['automaticlevel',['AutomaticLevel',['https://doc.qt.io/qt-5/class_qt_auto_updater_1_1_update_controller.html#a3c3df76116942329e05f639e60bbf5a2a218e6b929fa2dafddd6a22c9428032e5',0,'QtAutoUpdater::UpdateController']]]
 ];

@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['wflags',['WFlags',['http://doc.qt.io/qt-5/qt-obsolete.html#WFlags-typedef',0,'Qt']]],
-  ['windowflags',['WindowFlags',['http://doc.qt.io/qt-5/qt.html#WindowType-enum',0,'Qt']]],
-  ['windowstates',['WindowStates',['http://doc.qt.io/qt-5/qt.html#WindowState-enum',0,'Qt']]],
-  ['wizardoptions',['WizardOptions',['http://doc.qt.io/qt-5/qwizard.html#WizardOption-enum',0,'QWizard']]],
-  ['writefunc',['WriteFunc',['http://doc.qt.io/qt-5/qsettings.html#WriteFunc-typedef',0,'QSettings']]]
+  ['unhandledexception',['UnhandledException',['https://doc.qt.io/qt-5/qtconcurrent-obsolete.html#UnhandledException-typedef',0,'QtConcurrent']]],
+  ['uploading',['Uploading',['https://doc.qt.io/qt-5/class_qt_data_sync_1_1_sync_manager.html#a88370b2fba5ecb3602d60e08b0a66699a7027fe45ced17cc4f8fd9b6d0c265edd',0,'QtDataSync::SyncManager']]],
+  ['usagepolicies',['UsagePolicies',['https://doc.qt.io/qt-5/qnetworksession.html#UsagePolicy-enum',0,'QNetworkSession']]],
+  ['userinputresolutionoptions',['UserInputResolutionOptions',['https://doc.qt.io/qt-5/qurl.html#UserInputResolutionOption-enum',0,'QUrl']]]
 ];
